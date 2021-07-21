@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-07-20T09:17:38.561Z</updated>
+  <updated>2021-07-21T03:44:41.861Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,65 +17,27 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>gaogao 在看我</title>
-    <link href="http://example.com/2021/07/20/gaogao-%E5%9C%A8%E7%9C%8B%E6%88%91/"/>
-    <id>http://example.com/2021/07/20/gaogao-%E5%9C%A8%E7%9C%8B%E6%88%91/</id>
-    <published>2021-07-20T09:17:16.000Z</published>
-    <updated>2021-07-20T09:17:38.561Z</updated>
+    <title>test</title>
+    <link href="http://example.com/2021/07/21/test/"/>
+    <id>http://example.com/2021/07/21/test/</id>
+    <published>2021-07-21T03:43:56.000Z</published>
+    <updated>2021-07-21T03:44:41.861Z</updated>
     
-    <content type="html"><![CDATA[<p>哈哈！gaogao说“这也太厉害了！”</p>]]></content>
+    <content type="html"><![CDATA[<p>哈哈哈</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;哈哈！gaogao说“这也太厉害了！”&lt;/p&gt;
+    <summary type="html">&lt;p&gt;哈哈哈&lt;/p&gt;
 </summary>
       
     
     
     
-    
-  </entry>
-  
-  <entry>
-    <title>李南 哈哈</title>
-    <link href="http://example.com/2021/07/20/%E6%9D%8E%E5%8D%97-%E5%93%88%E5%93%88/"/>
-    <id>http://example.com/2021/07/20/%E6%9D%8E%E5%8D%97-%E5%93%88%E5%93%88/</id>
-    <published>2021-07-20T02:35:19.000Z</published>
-    <updated>2021-07-20T02:35:46.228Z</updated>
-    
-    <content type="html"><![CDATA[<p>今天坐在办公室里面上班。</p>]]></content>
+    <category term="哈哈" scheme="http://example.com/categories/%E5%93%88%E5%93%88/"/>
     
     
-      
-      
-    <summary type="html">&lt;p&gt;今天坐在办公室里面上班。&lt;/p&gt;
-</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>记录第一篇 好开心</title>
-    <link href="http://example.com/2021/07/19/%E8%AE%B0%E5%BD%95%E7%AC%AC%E4%B8%80%E7%AF%87-%E5%A5%BD%E5%BC%80%E5%BF%83/"/>
-    <id>http://example.com/2021/07/19/%E8%AE%B0%E5%BD%95%E7%AC%AC%E4%B8%80%E7%AF%87-%E5%A5%BD%E5%BC%80%E5%BF%83/</id>
-    <published>2021-07-19T15:28:45.000Z</published>
-    <updated>2021-07-19T15:29:23.216Z</updated>
-    
-    <content type="html"><![CDATA[<p>今天把主页换掉了 呼呼。</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;今天把主页换掉了 呼呼。&lt;/p&gt;
-</summary>
-      
-    
-    
-    
+    <category term="尝试" scheme="http://example.com/tags/%E5%B0%9D%E8%AF%95/"/>
     
   </entry>
   
