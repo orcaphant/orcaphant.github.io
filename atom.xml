@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-07-21T12:13:11.720Z</updated>
+  <updated>2021-07-22T04:10:11.187Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,25 +17,26 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>not good</title>
-    <link href="http://example.com/2021/07/21/not-good/"/>
-    <id>http://example.com/2021/07/21/not-good/</id>
-    <published>2021-07-21T12:10:46.000Z</published>
-    <updated>2021-07-21T12:13:11.720Z</updated>
+    <title>最大的小小农场</title>
+    <link href="http://example.com/2021/07/22/%E6%9C%80%E5%A4%A7%E7%9A%84%E5%B0%8F%E5%B0%8F%E5%86%9C%E5%9C%BA/"/>
+    <id>http://example.com/2021/07/22/%E6%9C%80%E5%A4%A7%E7%9A%84%E5%B0%8F%E5%B0%8F%E5%86%9C%E5%9C%BA/</id>
+    <published>2021-07-22T02:38:47.000Z</published>
+    <updated>2021-07-22T04:10:11.187Z</updated>
     
-    <content type="html"><![CDATA[<p>不开心，因为搞不来了:(</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="观影记录📝"><a href="#观影记录📝" class="headerlink" title="观影记录📝"></a><strong>观影记录</strong>📝</h2><p>遇到一个问题，不一定要解决产生问题的主体。而是引入新的解决方，让它们自然反应。譬如蜗牛啃叶，苍蝇生蛆，地鼠啃根，可以让鸭吃蜗牛，鸡吃蛆虫，郊狼捕地鼠，善用一物降一物，麻烦事变好事。</p><p>做农民真难喔！既要关注大环境问题（土壤、水源、气候），又要关注小环境问题（微生物、菌群、病原）；看天上（鸟类、天气）、地上（动物、植物），还要看不到的地下（虫、鼠、蛇）；七年过去，农场终于繁茂，但可能隔壁火山一个不小心的喷射就把农场给烧了，这时只能向风祷告。</p><p>农场主背负着巨大的责任，肩挑太多生命。「身怀使命的有机体」</p><p>既是生机盎然，也是危机四伏。</p><p>避免使用「害虫」这类词，不必先安上对立面。</p><p>官网：Thebiggestlittlefarmmovie.com</p><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a><strong>其他</strong></h2><p>城市里的人，离土地太远而可以选择的食物太多，面对自然，总是多了点人定胜天的信念。这几年的极端天气和天灾人祸频发，（显然）人类建筑出的秩序和日常就是这样不堪一击。然后我想，从事农业会怎么样呢？会更安心吗？更有掌控感？更稳定吗？结果每一年都有不一样的困难：即便你已经把该做的都做了，对自然界释放了最大程度的善意和敬意，人们依然、依然、太渺小而握不住任何东西。握不住，但是可以拥抱。</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;不开心，因为搞不来了:(&lt;/p&gt;
-</summary>
+    <summary type="html">&lt;h2 id=&quot;观影记录📝&quot;&gt;&lt;a href=&quot;#观影记录📝&quot; class=&quot;headerlink&quot; title=&quot;观影记录📝&quot;&gt;&lt;/a&gt;&lt;strong&gt;观影记录&lt;/strong&gt;📝&lt;/h2&gt;&lt;p&gt;遇到一个问题，不一定要解决产生问题的主体。而是引入新的解决方，让它们自然反</summary>
       
     
     
     
     
-    <category term="不开心" scheme="http://example.com/tags/%E4%B8%8D%E5%BC%80%E5%BF%83/"/>
+    <category term="电影" scheme="http://example.com/tags/%E7%94%B5%E5%BD%B1/"/>
+    
+    <category term="做个农民" scheme="http://example.com/tags/%E5%81%9A%E4%B8%AA%E5%86%9C%E6%B0%91/"/>
     
   </entry>
   
