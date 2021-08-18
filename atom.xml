@@ -85,9 +85,9 @@
     
     
     
-    <category term="电影" scheme="http://example.com/tags/%E7%94%B5%E5%BD%B1/"/>
-    
     <category term="关心地球" scheme="http://example.com/tags/%E5%85%B3%E5%BF%83%E5%9C%B0%E7%90%83/"/>
+    
+    <category term="电影" scheme="http://example.com/tags/%E7%94%B5%E5%BD%B1/"/>
     
   </entry>
   
@@ -110,9 +110,9 @@
     
     
     
-    <category term="电影" scheme="http://example.com/tags/%E7%94%B5%E5%BD%B1/"/>
-    
     <category term="关心地球" scheme="http://example.com/tags/%E5%85%B3%E5%BF%83%E5%9C%B0%E7%90%83/"/>
+    
+    <category term="电影" scheme="http://example.com/tags/%E7%94%B5%E5%BD%B1/"/>
     
   </entry>
   
